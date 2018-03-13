@@ -7,5 +7,18 @@
         <action name="Calculatrice" class="presentation.Calculatrice">
             <result name="SUCCESS">/calc.jsp</result>
         </action>
+        
+         <action name="moi" class="presentation.MoiAction">
+            <result name="SUCCESS">/WEB-INF/moi.jsp</result>
+        </action>
+        
+        
+         <action name="user" class="presentation.UserAction">
+            <result name="SUCCESS">/WEB-INF/user.jsp</result>
+        </action>
+         <action name="match" class="presentation.MatchAction">
+            <result name="SUCCESS">/WEB-INF/match.jsp</result>
+        </action>
+        
     </package>
 </struts>

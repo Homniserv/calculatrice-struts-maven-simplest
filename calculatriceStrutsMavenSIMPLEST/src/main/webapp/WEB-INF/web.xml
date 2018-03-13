@@ -31,7 +31,7 @@
 		</session-timeout>
 	</session-config>
 	<welcome-file-list>
-		<welcome-file>calc.jsp</welcome-file>
+		<welcome-file>indexx.jsp</welcome-file>
 	</welcome-file-list>
 </web-app>
 
